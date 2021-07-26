@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2039" started-at="2021-05-31T11:45:22 BST" finished-at="2021-05-31T11:45:24 BST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2039" started-at="2021-05-31T11:45:22 BST" finished-at="2021-05-31T11:45:24 BST">
+      <class name="Test_01_GetList">
+        <test-method status="PASS" signature="GetUserList()[pri:0, instance:Test_01_GetList@48503868]" name="GetUserList" duration-ms="1355" started-at="2021-05-31T11:45:22 BST" finished-at="2021-05-31T11:45:23 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserList -->
+        <test-method status="PASS" signature="GetUserList2()[pri:0, instance:Test_01_GetList@48503868]" name="GetUserList2" duration-ms="650" started-at="2021-05-31T11:45:23 BST" finished-at="2021-05-31T11:45:24 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserList2 -->
+      </class> <!-- Test_01_GetList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
